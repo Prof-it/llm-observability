@@ -103,7 +103,7 @@ One of them that we have already seen is going to be major to enabling this whol
 
 **Participant A**: I think, yeah, I think so. I think if we can get the proper understanding of the data documented, then I definitely think LLMs can solve that kind of problem.
 
-**Interviewer**: Yeah, so, like, "This is what we are seeing on the business side. What are you seeing on the business side? What does the LLM think?" Is that the kind of line that you're towing?
+**Interviewer**: Yeah, so, like, "This is what we are seeing on the business side. What are you seeing on the observability side? What does the LLM think?" Is that the kind of line that you're towing?
 
 **Participant A**: Yeah, exactly, exactly. You okay?
 
