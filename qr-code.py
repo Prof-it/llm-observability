@@ -17,6 +17,7 @@ def main():
     URL:https://www.researchgate.net/profile/Tianxiang-Lu-3
     URL:https://www.linkedin.com/in/dr-rer-nat-tianxiang-lu
     NOTE:First author Onyinye S. Uche acknowledged
+    X-GITHUB-REPO:https://github.com/Prof-it/llm-observability
     END:VCARD
     """
 
